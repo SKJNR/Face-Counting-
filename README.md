@@ -5,7 +5,6 @@
   * [Problem Statement](#problem-statement)
   * [Installation](#installation)
   * [How to Use](#how-to-use)
-  * [LICENSE](#license)
   
   ### Directory Tree
 
